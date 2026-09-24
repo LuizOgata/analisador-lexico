@@ -1,6 +1,9 @@
 # ALUNOS:
-Beatriz Zorato Mendonça RA:2414754
+Beatriz Zorato Mendonça RA: 2414754
+Lucas Perrone Borlin Alves RA: 2548107
 Luiz Filipe Ichiro Ogata RA: 2652281
+Yume Fernandes Lima RA: 2646927
+
 
 
 #  Analisador Léxico — Mini-Linguagem de Ingressos
@@ -379,3 +382,4 @@ Durante a construção do analisador foi identificado um conflito entre `DATA_LI
 O projeto demonstra a implementação de um **analisador léxico** para uma linguagem específica de domínio (DSL), utilizando expressões regulares para reconhecer elementos relacionados à venda de ingressos de eventos.
 
 O analisador representa a primeira etapa de um processo de compilação/interpretação: transformar uma sequência de caracteres em uma sequência estruturada de tokens que poderá ser utilizada posteriormente por um analisador sintático.
+
