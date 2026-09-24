@@ -1,8 +1,8 @@
 # ALUNOS:
-Beatriz Zorato Mendonça RA: 2414754
-Lucas Perrone Borlin Alves RA: 2548107
-Luiz Filipe Ichiro Ogata RA: 2652281
-Yume Fernandes Lima RA: 2646927
+Beatriz Zorato Mendonça RA: 2414754/
+Lucas Perrone Borlin Alves RA: 2548107/
+Luiz Filipe Ichiro Ogata RA: 2652281/
+Yume Fernandes Lima RA: 2646927/
 
 
 
